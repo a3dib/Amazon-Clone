@@ -4,40 +4,19 @@
     border: border-box;
 }
 
-.navbar{
+.nevbar{
     height: 60px;
     background-color: #0f1111;
     color: white;
-    display: flex;
 }
-.nav-logo{
+.nev-logo{
     height: 50px;
-    width: 100px;
+    width: 110;
 }
 .logo{
-    background-image: url(images/amazon_logo.png);
+    background-image: url(images/amazon_logo.png);    
     height: 50px;
-    width: 100px;
-    background-size: cover;
-}
-
-.border{
-    border: 2px solid transparent;
-}
-
-.border:hover{
-    border: 1.5 solid white;
-}
-.addf{
-    margin-left: 15px;
-    color: #cccccc;
-    font-size: 0.85ram;
-}
-.adds{
-    font-size: 1ram;
-    margin-left: 3px;
-}
-.add-icon{
-    display: flex;
-    align-items: center;
+    background-size:cover ;
+    width: 110;
+    
 }
